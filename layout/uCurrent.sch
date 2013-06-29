@@ -7869,6 +7869,7 @@ Source: www.kingbright.com</description>
 <part name="C3" library="rcl" deviceset="C-EU" device="C0805" value="0u1 6V"/>
 <part name="C2" library="rcl" deviceset="C-EU" device="C0805" value="0u1 6V"/>
 <part name="C1" library="rcl" deviceset="C-EU" device="C0805" value="0u1 6V"/>
+<part name="P+1" library="supply1" deviceset="V+" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -7912,6 +7913,7 @@ Source: www.kingbright.com</description>
 <instance part="C3" gate="G$1" x="193.04" y="86.36"/>
 <instance part="C2" gate="G$1" x="144.78" y="43.18"/>
 <instance part="C1" gate="G$1" x="182.88" y="119.38"/>
+<instance part="P+1" gate="1" x="200.66" y="111.76"/>
 </instances>
 <busses>
 </busses>
@@ -8032,6 +8034,12 @@ Source: www.kingbright.com</description>
 <junction x="58.42" y="45.72"/>
 <pinref part="R6" gate="G$1" pin="2"/>
 <pinref part="C2" gate="G$1" pin="1"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="NC"/>
+<pinref part="P+1" gate="1" pin="V+"/>
+<wire x1="198.12" y1="104.14" x2="200.66" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="200.66" y1="104.14" x2="200.66" y2="109.22" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$7" class="0">
