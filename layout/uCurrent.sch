@@ -7798,6 +7798,7 @@ Source: www.kingbright.com</description>
 <rectangle x1="-3" y1="5" x2="3" y2="9" layer="1"/>
 <rectangle x1="-1" y1="4" x2="1" y2="5" layer="1"/>
 <rectangle x1="-3.1" y1="4.9" x2="3.1" y2="9.1" layer="39"/>
+<rectangle x1="-3.1" y1="4.9" x2="3.1" y2="9.1" layer="29"/>
 </package>
 </packages>
 <symbols>
