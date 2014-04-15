@@ -18,7 +18,10 @@ Have a look at the [original project site](http://www.eevblog.com/projects/ucurr
 | R6, R7 | 100 kΩ 1% | 2 | SMD-0603 100K | [Reichelt][reichelt] |
 | C3, C8, C13, C14 | 100 nF | 4 | X7R-G0603 100N | [Reichelt][reichelt] |
 | LED1 | LED green | 1 | LG L29K | [Reichelt][reichelt] |
-| J1-J4 | Banana Jack | 1 | XXX | [Reichelt][reichelt] |
+| J1 | Banana Jack | 1 | PK 4 SW | [Reichelt][reichelt] |
+| J2 | Banana Jack | 1 | PK 4 RT | [Reichelt][reichelt] |
+| J3 | Banana Jack | 1 | BB 4 SW | [Reichelt][reichelt] |
+| J4 | Banana Jack | 1 | BB 4 RT | [Reichelt][reichelt] |
 | BAT | Batteryholder | 1 | KZH 20SMD-2 | [Mouser][mouser] |
 | SW1, SW2 | Switch | 2 | Switches Micro SMD | [Aliexpress][aliexpress] |
 | U1 | MAX4239ASA | 1 | 700-MAX4239ASA | [Mouser][mouser] |
