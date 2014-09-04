@@ -3,6 +3,17 @@
 This is a copy of the famous µCurrent of Dave Jones from EEVBlog.
 Have a look at the [original project site](http://www.eevblog.com/projects/ucurrent/).
 
+## Hardware
+
+![Top](docu/schematic.png "Top")
+
+Project schematic.
+
+
+![Top](docu/board.png "Top")
+
+Project board render.
+
 
 ## BOM
 | Identifier | Type/Value | Quantity | Supplier Id | Supplier | Comment |
